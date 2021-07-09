@@ -1,5 +1,3 @@
-#include<stdio.h>
-int main()
-{
-  printf("HELLO WORLD");
-}
+x = 10 
+print("NUMBER"=x)
+print("HI JENKINS FROM GIT HOPE TO MEET U SOON")
