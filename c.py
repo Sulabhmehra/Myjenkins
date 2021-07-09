@@ -1,3 +1,3 @@
 x = 10 
-print("NUMBER"=x)
+number = print(x)
 print("HI JENKINS FROM GIT HOPE TO MEET U SOON")
